@@ -68,13 +68,15 @@ a {
 .message__hello {
   font-size: 2.5vw;
   letter-spacing: 5px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin: 0%; }
 
 .message__name {
   font-size: 3vw;
   letter-spacing: 5px;
   text-transform: uppercase;
-  color: #1EABD8; }
+  color: #1EABD8;
+  margin: 0%; }
 
 .message__profession {
   font-size: 1.7vw;
