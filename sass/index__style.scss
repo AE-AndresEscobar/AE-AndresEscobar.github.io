@@ -1,0 +1,29 @@
+/*@import "componets/";*/
+
+html{
+    margin: 0%; 
+    padding: 0%;
+    box-sizing: border-box;
+ }
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+.header, .message__hello, .message__name, .message__profession
+{
+    font-family: "Quicksand" , Helvetica, sans-serif;
+}
+
+li
+{
+    list-style-type: none;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+@import "componets/index__body";
+@import "componets/index__header";
+@import "componets/index__message";
+@import "componets/index__social";
+@import "componets/index__foot";
