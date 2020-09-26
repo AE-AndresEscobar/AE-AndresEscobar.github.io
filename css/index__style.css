@@ -25,51 +25,36 @@ a {
   background-size: cover;
   padding-top: 2%; }
 
-/*.header
-{
-    width: 80vw;
-    height: 60px;
-    margin: auto;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-}
+.header {
+  width: 80vw;
+  height: 60px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); }
 
-.header__img
-{
-    width: 8.3vw;
-    align-self: center;
-}
+.header__img {
+  width: 8.3vw;
+  align-self: center; }
 
-.header__menu
-{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-}
+.header__menu {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); }
 
-.header__list
-{
-    display: inline;
-    text-align: center;
-    align-self: center;
-}
+.header__list {
+  display: inline;
+  text-align: center;
+  align-self: center; }
 
-.header__link
-{
-    color: #ffffff;
-    font-size: 1.2vw;
-}
+.header__link {
+  color: #ffffff;
+  font-size: 1.2vw; }
 
-.header__link:hover
-{
-    font-size: 1.7vw;
-}
+.header__link:hover {
+  font-size: 1.7vw; }
 
-.header__link:active
-{
-    color: #1EABD8;
-}
+.header__link:active {
+  color: #1EABD8; }
 
-*/
 /*.message
 {
     width: 50vw;
