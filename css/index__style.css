@@ -87,7 +87,8 @@ a {
   margin-top: 5%;
   letter-spacing: 2px;
   font-size: 1.2vw;
-  font-style: italic; }
+  font-style: italic;
+  font-family: 'Montserrat', sans-serif; }
 
 .social {
   width: 50px;
